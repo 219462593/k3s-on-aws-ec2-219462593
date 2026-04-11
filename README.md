@@ -34,7 +34,7 @@ Record the values — you will need them throughout this guide:
 |----------|------------|-----------|
 | k3s-master-1 | 172.31.84.125 | 98.82.2.159 |
 | k3s-master-2 | 172.31.93.48 | 54.89.209.4 |
-| k3s-master-3 | 172.31.39.5 | 54.172.112.146 |
+| k3s-master-3 |172.31.82.174| 3.88.0.162 |
 
 ---
 
