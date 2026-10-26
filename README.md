@@ -74,9 +74,9 @@ Add an entry for each node so they can resolve each other by hostname. Replace t
 
 ```sh
 sudo tee -a /etc/hosts <<EOF
-172.31.45.46  k3s-master-1
-172.31.40.2  k3s-master-2
-172.31.40.119  k3s-master-3
+172.31.47.91  k3s-master-1
+172.31.42.193  k3s-master-2
+172.31.33.0  k3s-master-3
 EOF
 ```
 
